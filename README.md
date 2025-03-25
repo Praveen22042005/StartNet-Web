@@ -1,6 +1,6 @@
 # StartNet
 
-**StartNet** is an open-source platform that connects visionary entrepreneurs with forward-thinking investors. Powered by AI-driven risk assessment and intelligent matching, it bridges the gap between startups and investors for a seamless funding process while mitigating risks. Join us in building a platform that fosters innovation and empowers the startup ecosystem!
+**StartNet** is an open-source platform that I created to connect visionary entrepreneurs with forward-thinking investors. Powered by AI-driven risk assessment and intelligent matching, it bridges the gap between startups and investors for a seamless funding process while mitigating risks. Join me in building a platform that fosters innovation and empowers the startup ecosystem!
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://startnet-web.vercel.app/)  
@@ -84,18 +84,20 @@ cd StartNet-Web
 
 ## 🚀 Roadmap
 
-We’re excited about the future of StartNet-Web! Here’s what’s on the horizon:
+I’m excited about the future of StartNet-Web! Here’s what I have planned:
 - [ ] Enhanced AI matching algorithms for better recommendations.
 - [ ] Real-time chat system for seamless communication.
 - [ ] Mobile app for iOS and Android.
 - [ ] Blockchain integration for secure funding transactions.
 - [ ] Advanced analytics dashboard for investors and entrepreneurs.
 
+Want to help shape the future of StartNet-Web? Check out my [issues page](https://github.com/Praveen22042005/StartNet-Web/issues) for opportunities to contribute!
+
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Whether you’re fixing a bug, adding a feature, or improving documentation, your help is greatly appreciated.
+I welcome contributions from the community! Whether you’re fixing a bug, adding a feature, or improving documentation, your help is greatly appreciated.
 
 ### How to Contribute
 1. Fork the repository.
@@ -104,7 +106,7 @@ We welcome contributions from the community! Whether you’re fixing a bug, addi
 4. Push to your branch (`git push origin feature/your-feature-name`).
 5. Open a pull request with a detailed description of your changes.
 
-For more details, please read our [Contributing Guidelines](CONTRIBUTING.md). If you’re new to open-source, we’ve marked some issues with the `good first issue` label to help you get started!
+For more details, please read my [Contributing Guidelines](CONTRIBUTING.md). If you’re new to open-source, I’ve marked some issues with the `good first issue` label to help you get started!
 
 ---
 
@@ -154,5 +156,4 @@ Have questions, feedback, or ideas? Reach out to me:
 
 ---
 
-⭐ **If you find StartNet-Web useful, please give it a star on GitHub!** It helps us reach more people and grow the community. Let’s build the future of startup funding together! 🚀
-```
+⭐ **If you find StartNet-Web useful, please give it a star on GitHub!** It helps me reach more people and grow the community. Let’s build the future of startup funding together! 🚀
