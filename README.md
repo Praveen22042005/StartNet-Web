@@ -161,7 +161,9 @@ cd StartNet-Web
 - Password reset functionality.
 - Email verification.
 
-![Authentication](https://github.com/user-attachments/assets/ca7a82e6-ae1f-48aa-b617-34be347a46ce)
+| Signup Page | Signin Page |
+|--------------|----------|
+| <br>![Screenshot 2025-03-25 110901](https://github.com/user-attachments/assets/990d0f89-e081-4b15-88c4-474fb27dce5e) | <br>![Screenshot 2025-03-25 110909](https://github.com/user-attachments/assets/88f18e38-c0e8-4470-a4a2-38ce0530aa2f) |
 
 ### Entrepreneur Dashboard
 - Create and manage startup profiles.
