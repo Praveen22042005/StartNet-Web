@@ -6,7 +6,7 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://startnet-web.vercel.app/)  
 [![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/issues)  
 [![GitHub Stars](https://img.shields.io/github/stars/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/stargazers)  
-![StartNet Dashboard](https://via.placeholder.com/800x400.png?text=StartNet+Dashboard) <!-- Placeholder for dashboard image -->
+![StartNet Dashboard](https://github.com/user-attachments/assets/ec2b0c9b-ceec-490e-831b-6f6050d85311)
 
 ---
 
@@ -155,7 +155,7 @@ cd StartNet-Web
 - Password reset functionality.
 - Email verification.
 
-![Authentication](https://via.placeholder.com/800x400.png?text=Authentication) <!-- Placeholder for authentication image -->
+![Authentication](https://github.com/user-attachments/assets/ca7a82e6-ae1f-48aa-b617-34be347a46ce)
 
 ### Entrepreneur Dashboard
 - Create and manage startup profiles.
@@ -163,7 +163,7 @@ cd StartNet-Web
 - Upload documents and logos.
 - View analytics and metrics.
 
-![Entrepreneur Dashboard](https://via.placeholder.com/800x400.png?text=Entrepreneur+Dashboard) <!-- Placeholder for entrepreneur dashboard image -->
+![Entrepreneur-Dashboard](https://github.com/user-attachments/assets/6e02115b-d97d-41a6-b682-19a877e8682b)
 
 ### Investor Portal
 - Browse startups by industry and metrics.
@@ -171,7 +171,7 @@ cd StartNet-Web
 - Contact promising entrepreneurs.
 - Track investment opportunities.
 
-![Investor Portal](https://via.placeholder.com/800x400.png?text=Investor+Portal) <!-- Placeholder for investor portal image -->
+![Investor-Dashboard](https://github.com/user-attachments/assets/b1279f0e-06e2-4a48-bb33-8d6ca06f016b)
 
 ---
 
@@ -248,7 +248,7 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 Check out the live demo of StartNet-Web: [https://startnet-web.vercel.app/](https://startnet-web.vercel.app/)
 
-![Live Demo](https://via.placeholder.com/800x400.png?text=Live+Demo) <!-- Placeholder for live demo image -->
+![Signup-to-see-this-page](https://github.com/user-attachments/assets/9bb6816f-e446-43b3-81c6-40bcef02723a)
 
 ---
 
