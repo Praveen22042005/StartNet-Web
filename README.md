@@ -125,7 +125,7 @@ Check out the live demo of StartNet-Web: [https://startnet-web.vercel.app/](http
 ## 👨‍💻 Author
 
 **Praveen BV**  
-I’m passionate about building tools that empower startups and investors. Let’s connect!
+Passionate about this world — it’s as simple as learning something new today that I didn’t know yesterday. There’s so much more to explore, so much more to experience. Let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/praveenbv/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/Praveen22042005)
