@@ -2,10 +2,9 @@
 
 **StartNet** is an open-source platform I created to connect visionary entrepreneurs with forward-thinking investors. Powered by AI-driven risk assessment and intelligent matching, it bridges the gap between startups and investors for a seamless funding process while mitigating risks. Join me in building a platform that fosters innovation and empowers the startup ecosystem!
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://startnet-web.vercel.app/)  
-[![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/issues)  
-[![GitHub Stars](https://img.shields.io/github/stars/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/stargazers)  
+| ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://startnet-web.vercel.app/) | [![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/issues) |
+|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| [![GitHub Stars](https://img.shields.io/github/stars/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/stargazers) |                                                                                                       |                                                                                                                             |  
 ![StartNet Dashboard](https://github.com/user-attachments/assets/ec2b0c9b-ceec-490e-831b-6f6050d85311)
 
 ---
