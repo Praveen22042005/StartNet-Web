@@ -21,10 +21,10 @@
 
 | Entrepreneur | Investor |
 |--------------|----------|
-| **Manage Your Startups**![Screenshot 2025-03-25 110949](https://github.com/user-attachments/assets/5dd61ac4-ffe5-442a-9984-156ebff3734d) | **Discover Startups**![Screenshot 2025-03-25 111422](https://github.com/user-attachments/assets/257965db-18ab-49b8-bb98-3436619720c6) |
-| **Real-time Updates**![Screenshot 2025-03-25 110923](https://github.com/user-attachments/assets/77b63116-21ff-4510-9d23-e80cf491a4d0)  | **Detailed Startup Profiles**![Screenshot 2025-03-25 111435](https://github.com/user-attachments/assets/398612d7-24fb-4750-b811-22499e9ae2ba) |
-| **Secure Account Management**![Screenshot 2025-03-25 111614](https://github.com/user-attachments/assets/7e23fbe4-b805-41f2-a35b-e28f42e8ff85)  | **Financial Insights**![Screenshot 2025-03-25 111547](https://github.com/user-attachments/assets/cd3f5eb4-d176-42ee-b8a6-962f62dfe21a) |
-| **Personal Profile Management**![Screenshot 2025-03-25 110937](https://github.com/user-attachments/assets/cfaea707-03bf-4535-866b-4e6c01cc86c7) | **Contact Startups**![Screenshot 2025-03-25 111559](https://github.com/user-attachments/assets/572bbc47-8f9b-4129-8ecb-1f0573a844de) |
+| **Manage Your Startups**<br>![Screenshot 2025-03-25 110949](https://github.com/user-attachments/assets/5dd61ac4-ffe5-442a-9984-156ebff3734d) | **Discover Startups**<br>![Screenshot 2025-03-25 111422](https://github.com/user-attachments/assets/257965db-18ab-49b8-bb98-3436619720c6) |
+| **Real-time Updates**<br>![Screenshot 2025-03-25 110923](https://github.com/user-attachments/assets/77b63116-21ff-4510-9d23-e80cf491a4d0)  | **Detailed Startup Profiles**<br>![Screenshot 2025-03-25 111435](https://github.com/user-attachments/assets/398612d7-24fb-4750-b811-22499e9ae2ba) |
+| **Secure Account Management**<br>![Screenshot 2025-03-25 111614](https://github.com/user-attachments/assets/7e23fbe4-b805-41f2-a35b-e28f42e8ff85)  | **Financial Insights**<br>![Screenshot 2025-03-25 111547](https://github.com/user-attachments/assets/cd3f5eb4-d176-42ee-b8a6-962f62dfe21a) |
+| **Personal Profile Management**<br>![Screenshot 2025-03-25 110937](https://github.com/user-attachments/assets/cfaea707-03bf-4535-866b-4e6c01cc86c7) | **Contact Startups**<br>![Screenshot 2025-03-25 111559](https://github.com/user-attachments/assets/572bbc47-8f9b-4129-8ecb-1f0573a844de) |
 
 ---
 
@@ -253,8 +253,6 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 ## 🌐 Live Demo
 
 Check out the live demo of StartNet-Web: [https://startnet-web.vercel.app/](https://startnet-web.vercel.app/)
-
-![Signup-to-see-this-page](https://github.com/user-attachments/assets/9bb6816f-e446-43b3-81c6-40bcef02723a)
 
 ---
 
