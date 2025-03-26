@@ -5,6 +5,7 @@
 | ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://startnet-web.vercel.app/) | [![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/issues) |
 |----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | [![GitHub Stars](https://img.shields.io/github/stars/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/stargazers) |                                                                                                       |                                                                                                                             |  
+---
 ![StartNet Dashboard](https://github.com/user-attachments/assets/ec2b0c9b-ceec-490e-831b-6f6050d85311)
 
 ---
