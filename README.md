@@ -293,10 +293,7 @@ Have questions, feedback, or ideas? Reach out to me:
 
 ## 📊 Project Statistics
 
-![GitHub Contributors](https://img.shields.io/github/contributors/Praveen22042005/StartNet-Web)  
-![GitHub Forks](https://img.shields.io/github/forks/Praveen22042005/StartNet-Web)  
-![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)  
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Praveen22042005/StartNet-Web)
+| ![GitHub Contributors](https://img.shields.io/github/contributors/Praveen22042005/StartNet-Web) | ![GitHub Forks](https://img.shields.io/github/forks/Praveen22042005/StartNet-Web) | ![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web) | ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Praveen22042005/StartNet-Web) |
 
 ---
 
