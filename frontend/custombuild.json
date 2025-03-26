@@ -1,0 +1,7 @@
+{
+    "scripts": {
+      "build": "next build",
+      "build:azure": "cross-env SKIP_TYPE_CHECK=true next build",
+      "test": "jest"
+    }
+  }
