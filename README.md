@@ -19,6 +19,8 @@
 - **Real-time Updates**: Stay informed with instant notifications and updates.
 - **Responsive Design**: Fully responsive UI that works on desktop, tablet, and mobile devices.
 
+| ![Screenshot 2025-03-25 110923](https://github.com/user-attachments/assets/f86f4e9b-21e3-450c-a699-f19e8a82a60c) | ![Screenshot 2025-03-25 110937](https://github.com/user-attachments/assets/24672d31-ab23-4080-9512-1ff26630d894) | ![Screenshot 2025-03-25 110949](https://github.com/user-attachments/assets/04a921cd-78f4-46eb-b5fc-a6792c9e3402)  | ![Screenshot 2025-03-25 111031](https://github.com/user-attachments/assets/7770b870-e7bd-480f-a92f-a16198782aad) | 
+
 ---
 
 ## 🔧 Tech Stack
