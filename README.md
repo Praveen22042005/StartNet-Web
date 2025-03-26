@@ -21,10 +21,10 @@
 
 | Entrepreneur | Investor |
 |--------------|----------|
-| **Manage Your Startups**<br>Track and update your startup details seamlessly.<br>![Screenshot 2025-03-25 110949](https://github.com/user-attachments/assets/5dd61ac4-ffe5-442a-9984-156ebff3734d) | **Discover Startups**<br>Browse and filter startups to find promising investment opportunities.<br>![Screenshot 2025-03-25 111031](https://github.com/user-attachments/assets/e82bc149-406f-4526-a94b-b1db5360698c) |
-| **Real-time Updates**<br>Get instant updates on your startups’ progress and funding.<br>![Screenshot 2025-03-25 110923](https://github.com/user-attachments/assets/77b63116-21ff-4510-9d23-e80cf491a4d0)  | **Detailed Startup Profiles**<br>Access in-depth startup information to make informed decisions.<br>![Cognito Overview](https://github.com/Praveen22042005/StartNet-Web/raw/main/images/cognito-overview.png) |
-| **Secure Account Management**<br>Update your password and manage account settings securely.<br>![Screenshot 2025-03-25 111614](https://github.com/user-attachments/assets/7e23fbe4-b805-41f2-a35b-e28f42e8ff85)  | **Financial Insights**<br>Review financial projections and key metrics for startups.<br>![Screenshot 2025-03-25 111435](https://github.com/user-attachments/assets/5180740d-deca-40e4-9a00-a402bc7f7aab) |
-| **Personal Profile Management**<br>Customize your profile to showcase your vision.<br>![Screenshot 2025-03-25 110937](https://github.com/user-attachments/assets/cfaea707-03bf-4535-866b-4e6c01cc86c7) | **Contact Startups**<br>Connect with founders to explore investment opportunities.<br>![Screenshot 2025-03-25 111559](https://github.com/user-attachments/assets/572bbc47-8f9b-4129-8ecb-1f0573a844de) |
+| **Manage Your Startups**![Screenshot 2025-03-25 110949](https://github.com/user-attachments/assets/5dd61ac4-ffe5-442a-9984-156ebff3734d) | **Discover Startups**![Screenshot 2025-03-25 111031](https://github.com/user-attachments/assets/e82bc149-406f-4526-a94b-b1db5360698c) |
+| **Real-time Updates**![Screenshot 2025-03-25 110923](https://github.com/user-attachments/assets/77b63116-21ff-4510-9d23-e80cf491a4d0)  | **Detailed Startup Profiles**![Cognito Overview](https://github.com/Praveen22042005/StartNet-Web/raw/main/images/cognito-overview.png) |
+| **Secure Account Management**![Screenshot 2025-03-25 111614](https://github.com/user-attachments/assets/7e23fbe4-b805-41f2-a35b-e28f42e8ff85)  | **Financial Insights**![Screenshot 2025-03-25 111435](https://github.com/user-attachments/assets/5180740d-deca-40e4-9a00-a402bc7f7aab) |
+| **Personal Profile Management**![Screenshot 2025-03-25 110937](https://github.com/user-attachments/assets/cfaea707-03bf-4535-866b-4e6c01cc86c7) | **Contact Startups**![Screenshot 2025-03-25 111559](https://github.com/user-attachments/assets/572bbc47-8f9b-4129-8ecb-1f0573a844de) |
 
 ---
 
