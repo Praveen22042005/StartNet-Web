@@ -1,11 +1,12 @@
 # StartNet
 
-**StartNet** is an open-source platform that I created to connect visionary entrepreneurs with forward-thinking investors. Powered by AI-driven risk assessment and intelligent matching, it bridges the gap between startups and investors for a seamless funding process while mitigating risks. Join me in building a platform that fosters innovation and empowers the startup ecosystem!
+**StartNet** is an open-source platform I created to connect visionary entrepreneurs with forward-thinking investors. Powered by AI-driven risk assessment and intelligent matching, it bridges the gap between startups and investors for a seamless funding process while mitigating risks. Join me in building a platform that fosters innovation and empowers the startup ecosystem!
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://startnet-web.vercel.app/)  
 [![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/issues)  
-[![GitHub Stars](https://img.shields.io/github/stars/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/stargazers)  
+![StartNet Dashboard](https://via.placeholder.com/800x400.png?text=StartNet+Dashboard) <!-- Placeholder for dashboard image -->
 
 ---
 
@@ -17,6 +18,7 @@
 - **Secure Authentication**: Robust user authentication using JWT and bcrypt.
 - **Cloud Storage**: Securely store startup logos and documents with Azure Blob Storage.
 - **Real-time Updates**: Stay informed with instant notifications and updates.
+- **Responsive Design**: Fully responsive UI that works on desktop, tablet, and mobile devices.
 
 ---
 
@@ -28,6 +30,62 @@
 - **Authentication**: JWT, bcrypt
 - **Storage**: Azure Blob Storage
 - **AI/ML**: OpenAI integration for risk assessment and matching
+
+### Frontend
+- **Framework**: Next.js 14 (React)
+- **Styling**: Tailwind CSS with shadcn/ui components
+- **State Management**: React Context API
+- **Form Handling**: React Hook Form with Zod validation
+- **API Communication**: Fetch API with custom hooks
+
+---
+
+## 📂 Project Structure
+
+### Frontend Structure
+```
+frontend/
+├── public/               # Static files and images
+├── src/
+│   ├── app/              # Next.js app router pages
+│   │   ├── auth/         # Authentication pages (signin, signup)
+│   │   ├── entrepreneur/ # Entrepreneur dashboard and features
+│   │   ├── investor/     # Investor dashboard and features
+│   │   └── sidebar/      # Sidebar navigation components
+│   ├── components/       # Reusable UI components
+│   │   ├── startups/     # Startup-related components
+│   │   └── ui/           # Base UI components
+│   ├── config/           # Configuration files
+│   ├── hooks/            # Custom React hooks
+│   ├── lib/              # Utility functions
+│   └── types/            # TypeScript type definitions
+├── .env.local.sample     # Sample environment variables
+├── next.config.ts        # Next.js configuration
+└── tailwind.config.ts    # Tailwind CSS configuration
+```
+
+### Backend Structure
+```
+backend/
+├── config/               # Configuration files
+│   ├── azureStorage.js   # Azure Blob Storage configuration
+│   └── multer.js         # File upload configuration
+├── controllers/          # Request handlers
+│   ├── auth/             # Authentication controllers
+│   ├── entrepreneur/     # Entrepreneur controllers
+│   └── investor/         # Investor controllers
+├── middleware/           # Express middleware
+│   └── auth.js           # Authentication middleware
+├── models/               # Mongoose data models
+│   ├── entrepreneur/     # Entrepreneur-related models
+│   └── investor/         # Investor-related models
+├── routes/               # API route definitions
+│   ├── auth/             # Authentication routes
+│   ├── entrepreneur/     # Entrepreneur routes
+│   └── investor/         # Investor routes
+├── .env.example          # Sample environment variables
+└── server.js             # Express application entry point
+```
 
 ---
 
@@ -69,6 +127,52 @@ cd StartNet-Web
    npm run dev
    ```
 
+#### 3. Frontend Setup
+1. Navigate to the frontend directory:
+   ```bash
+   cd ../frontend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Create a `.env.local` file by copying the `.env.local.sample` template:
+   ```env
+   NEXT_PUBLIC_API_BASE_URL=http://localhost:5000/api
+   ```
+4. Start the frontend development server:
+   ```bash
+   npm run dev
+   ```
+5. Access the application at `http://localhost:3000`.
+
+---
+
+## 🖥️ User Interface
+
+### Authentication
+- Sign in and sign up pages with validation.
+- Password reset functionality.
+- Email verification.
+
+![Authentication](https://via.placeholder.com/800x400.png?text=Authentication) <!-- Placeholder for authentication image -->
+
+### Entrepreneur Dashboard
+- Create and manage startup profiles.
+- Track investor interest.
+- Upload documents and logos.
+- View analytics and metrics.
+
+![Entrepreneur Dashboard](https://via.placeholder.com/800x400.png?text=Entrepreneur+Dashboard) <!-- Placeholder for entrepreneur dashboard image -->
+
+### Investor Portal
+- Browse startups by industry and metrics.
+- Save favorites and build a portfolio.
+- Contact promising entrepreneurs.
+- Track investment opportunities.
+
+![Investor Portal](https://via.placeholder.com/800x400.png?text=Investor+Portal) <!-- Placeholder for investor portal image -->
+
 ---
 
 ## 🔒 Security Features
@@ -79,6 +183,7 @@ cd StartNet-Web
 - **File Upload Validation**: Ensure safe file uploads to cloud storage.
 - **Input Sanitization**: Guard against injection attacks.
 - **CORS Protection**: Restrict cross-origin requests to trusted domains.
+- **Content Security Policy**: Prevent XSS attacks with strict CSP.
 
 ---
 
@@ -110,6 +215,29 @@ For more details, please read my [Contributing Guidelines](CONTRIBUTING.md). If 
 
 ---
 
+## 🧪 Testing
+
+StartNet-Web includes comprehensive testing to ensure reliability:
+
+### Backend Tests
+```bash
+cd backend
+npm test
+```
+
+### Frontend Tests
+```bash
+cd frontend
+npm test
+```
+
+### E2E Tests
+```bash
+npm run test:e2e
+```
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details. Feel free to use, modify, and distribute this code as per the license terms.
@@ -120,12 +248,14 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 Check out the live demo of StartNet-Web: [https://startnet-web.vercel.app/](https://startnet-web.vercel.app/)
 
+![Live Demo](https://via.placeholder.com/800x400.png?text=Live+Demo) <!-- Placeholder for live demo image -->
+
 ---
 
 ## 👨‍💻 Author
 
 **Praveen BV**  
-Passionate about this world — it’s as simple as learning something new today that I didn’t know yesterday. There’s so much more to explore, so much more to experience. Let’s connect!
+I’m passionate about this world — it’s as simple as learning something new today that I didn’t know yesterday. There’s so much more to explore, so much more to experience. Let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/praveenbv/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/Praveen22042005)
@@ -152,7 +282,17 @@ Have questions, feedback, or ideas? Reach out to me:
 ## 🙌 Acknowledgments
 
 - Thanks to the open-source community for the amazing tools and libraries that made this project possible.
-- Special shoutout to [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/) for their fantastic frameworks and services.
+- Special shoutout to [Next.js](https://nextjs.org/), [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/) for their fantastic frameworks and services.
+- Thanks to all contributors who have helped shape and improve this project.
+
+---
+
+## 📊 Project Statistics
+
+![GitHub Contributors](https://img.shields.io/github/contributors/Praveen22042005/StartNet-Web)  
+![GitHub Forks](https://img.shields.io/github/forks/Praveen22042005/StartNet-Web)  
+![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)  
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Praveen22042005/StartNet-Web)
 
 ---
 
