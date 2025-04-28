@@ -1,12 +1,11 @@
 # StartNet
 
-**StartNet** is an open-source platform I created to connect visionary entrepreneurs with forward-thinking investors. Powered by AI-driven risk assessment and intelligent matching, it bridges the gap between startups and investors for a seamless funding process while mitigating risks. Join me in building a platform that fosters innovation and empowers the startup ecosystem!
+**StartNet** is an open-source platform I created to connect visionary entrepreneurs with forward-thinking investors. Powered by AI-driven risk assessment and intelligent matching, it bridges the gap between startups and investors for a seamless funding process while mitigating risks.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://startnet-web.vercel.app/)  
-[![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/issues)  
-[![GitHub Stars](https://img.shields.io/github/stars/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/stargazers)  
-![StartNet Dashboard](https://via.placeholder.com/800x400.png?text=StartNet+Dashboard) <!-- Placeholder for dashboard image -->
+| ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://startnet-web.vercel.app/) | [![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/issues) | [![GitHub Stars](https://img.shields.io/github/stars/Praveen22042005/StartNet-Web)](https://github.com/Praveen22042005/StartNet-Web/stargazers) | 
+
+---
+![StartNet Dashboard](https://github.com/user-attachments/assets/ec2b0c9b-ceec-490e-831b-6f6050d85311)
 
 ---
 
@@ -19,6 +18,13 @@
 - **Cloud Storage**: Securely store startup logos and documents with Azure Blob Storage.
 - **Real-time Updates**: Stay informed with instant notifications and updates.
 - **Responsive Design**: Fully responsive UI that works on desktop, tablet, and mobile devices.
+
+| Entrepreneur | Investor |
+|--------------|----------|
+| **Manage Your Startups**<br><br>![Screenshot 2025-03-25 110949](https://github.com/user-attachments/assets/5dd61ac4-ffe5-442a-9984-156ebff3734d) | **Discover Startups**<br><br>![Screenshot 2025-03-25 111422](https://github.com/user-attachments/assets/257965db-18ab-49b8-bb98-3436619720c6) |
+| **Real-time Updates**<br><br>![Screenshot 2025-03-25 110923](https://github.com/user-attachments/assets/77b63116-21ff-4510-9d23-e80cf491a4d0) | **Detailed Startup Profiles**<br><br>![Screenshot 2025-03-25 111435](https://github.com/user-attachments/assets/398612d7-24fb-4750-b811-22499e9ae2ba) |
+| **Secure Account Management**<br><br>![Screenshot 2025-03-25 111614](https://github.com/user-attachments/assets/7e23fbe4-b805-41f2-a35b-e28f42e8ff85) | **Financial Insights**<br><br>![Screenshot 2025-03-25 111547](https://github.com/user-attachments/assets/cd3f5eb4-d176-42ee-b8a6-962f62dfe21a) |
+| **Personal Profile Management**<br><br>![Screenshot 2025-03-25 110937](https://github.com/user-attachments/assets/cfaea707-03bf-4535-866b-4e6c01cc86c7) | **Contact Startups**<br><br>![Screenshot 2025-03-25 111559](https://github.com/user-attachments/assets/572bbc47-8f9b-4129-8ecb-1f0573a844de) |
 
 ---
 
@@ -155,7 +161,9 @@ cd StartNet-Web
 - Password reset functionality.
 - Email verification.
 
-![Authentication](https://via.placeholder.com/800x400.png?text=Authentication) <!-- Placeholder for authentication image -->
+| Signup Page | Signin Page |
+|--------------|----------|
+| ![Screenshot 2025-03-25 110901](https://github.com/user-attachments/assets/990d0f89-e081-4b15-88c4-474fb27dce5e) | ![Screenshot 2025-03-25 110909](https://github.com/user-attachments/assets/88f18e38-c0e8-4470-a4a2-38ce0530aa2f) |
 
 ### Entrepreneur Dashboard
 - Create and manage startup profiles.
@@ -163,7 +171,7 @@ cd StartNet-Web
 - Upload documents and logos.
 - View analytics and metrics.
 
-![Entrepreneur Dashboard](https://via.placeholder.com/800x400.png?text=Entrepreneur+Dashboard) <!-- Placeholder for entrepreneur dashboard image -->
+![Entrepreneur-Dashboard](https://github.com/user-attachments/assets/6e02115b-d97d-41a6-b682-19a877e8682b)
 
 ### Investor Portal
 - Browse startups by industry and metrics.
@@ -171,7 +179,7 @@ cd StartNet-Web
 - Contact promising entrepreneurs.
 - Track investment opportunities.
 
-![Investor Portal](https://via.placeholder.com/800x400.png?text=Investor+Portal) <!-- Placeholder for investor portal image -->
+![Investor-Dashboard](https://github.com/user-attachments/assets/b1279f0e-06e2-4a48-bb33-8d6ca06f016b)
 
 ---
 
@@ -248,8 +256,6 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 Check out the live demo of StartNet-Web: [https://startnet-web.vercel.app/](https://startnet-web.vercel.app/)
 
-![Live Demo](https://via.placeholder.com/800x400.png?text=Live+Demo) <!-- Placeholder for live demo image -->
-
 ---
 
 ## 👨‍💻 Author
@@ -289,10 +295,7 @@ Have questions, feedback, or ideas? Reach out to me:
 
 ## 📊 Project Statistics
 
-![GitHub Contributors](https://img.shields.io/github/contributors/Praveen22042005/StartNet-Web)  
-![GitHub Forks](https://img.shields.io/github/forks/Praveen22042005/StartNet-Web)  
-![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web)  
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Praveen22042005/StartNet-Web)
+| ![GitHub Contributors](https://img.shields.io/github/contributors/Praveen22042005/StartNet-Web) | ![GitHub Forks](https://img.shields.io/github/forks/Praveen22042005/StartNet-Web) | ![GitHub Issues](https://img.shields.io/github/issues/Praveen22042005/StartNet-Web) | ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Praveen22042005/StartNet-Web) |
 
 ---
 
